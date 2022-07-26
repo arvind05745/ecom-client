@@ -24,7 +24,7 @@ export default function Topbar() {
                         <a className="text-white px-3" href="https://twitter.com/arvind05745">
                             <i className="fab fa-twitter"/>
                         </a>
-                        <a className="text-white px-3" href="https://in.linkedin.com/">
+                        <a className="text-white px-3" href="https://www.linkedin.com/in/arvind-kumar-79739b22b/">
                             <i className="fab fa-linkedin-in"/>
                         </a>
                         <a className="text-white px-3" href="https://www.instagram.com/arvindgupta05745/">
