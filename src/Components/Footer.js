@@ -15,8 +15,8 @@ export default function Footer() {
                 <div className="d-flex justify-content-start mt-4">
                     <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://twitter.com/arvind05745"><i className="fab fa-twitter"></i></a>
                     <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a>
-                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://in.linkedin.com/"><i className="fab fa-linkedin-in"></i></a>
-                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height": "38px"}} href="https://in.linkedin.com/"><i className="fab fa-instagram"></i></a>
+                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://www.linkedin.com/in/arvind-kumar-79739b22b/"><i className="fab fa-linkedin-in"></i></a>
+                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height": "38px"}} href="https://www.instagram.com/arvindgupta05745/"><i className="fab fa-instagram"></i></a>
                 </div>
             </div>
             <div className="col-lg-3 col-md-6 mb-5">
