@@ -21,18 +21,18 @@ export default function Topbar() {
                         <a className="text-white px-3" href="https://www.facebook.com/">
                             <i className="fab fa-facebook-f"/>
                         </a>
-                        <Link className="text-white px-3" to="https://www.instagram.com/arvindgupta05745/">
+                        <a className="text-white px-3" href="https://twitter.com/arvind05745">
                             <i className="fab fa-twitter"/>
-                        </Link>
-                        <Link className="text-white px-3" to="">
+                        </a>
+                        <a className="text-white px-3" href="https://in.linkedin.com/">
                             <i className="fab fa-linkedin-in"/>
-                        </Link>
-                        <Link className="text-white px-3" to="">
+                        </a>
+                        <a className="text-white px-3" href="https://www.instagram.com/arvindgupta05745/">
                             <i className="fab fa-instagram"/>
-                        </Link>
-                        <Link className="text-white pl-3" to="">
+                        </a>
+                        <a className="text-white pl-3" href="http://www.youtube.com">
                             <i className="fab fa-youtube"/>
-                        </Link>
+                        </a>
                     </div>
                 </div>
             </div>
