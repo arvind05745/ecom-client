@@ -13,10 +13,10 @@ export default function Footer() {
                 <Link to=""><h1 className="text-secondary mb-3"><span className="text-white">A.K.</span>ELECTRONIC</h1></Link>
                 <p>Electronic product company</p>
                 <div className="d-flex justify-content-start mt-4">
-                    <Link className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} to="#"><i className="fab fa-twitter"></i></Link>
-                    <Link className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} to="#"><i className="fab fa-facebook-f"></i></Link>
-                    <Link className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} to="#"><i className="fab fa-linkedin-in"></i></Link>
-                    <Link className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height": "38px"}} to="#"><i className="fab fa-instagram"></i></Link>
+                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://twitter.com/arvind05745"><i className="fab fa-twitter"></i></a>
+                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://www.facebook.com/"><i className="fab fa-facebook-f"></i></a>
+                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height" :"38px"}} href="https://in.linkedin.com/"><i className="fab fa-linkedin-in"></i></a>
+                    <a className="btn btn-outline-light rounded-circle text-center mr-2 px-0" style={{"width": "38px", "height": "38px"}} href="https://in.linkedin.com/"><i className="fab fa-instagram"></i></a>
                 </div>
             </div>
             <div className="col-lg-3 col-md-6 mb-5">
