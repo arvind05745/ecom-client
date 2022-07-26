@@ -21,7 +21,7 @@ export default function Topbar() {
                         <a className="text-white px-3" href="https://www.facebook.com/">
                             <i className="fab fa-facebook-f"/>
                         </a>
-                        <Link className="text-white px-3" to="/contact">
+                        <Link className="text-white px-3" to="https://www.instagram.com/arvindgupta05745/">
                             <i className="fab fa-twitter"/>
                         </Link>
                         <Link className="text-white px-3" to="">
