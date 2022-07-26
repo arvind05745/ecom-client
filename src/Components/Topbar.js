@@ -18,7 +18,7 @@ export default function Topbar() {
                 </div>
                 <div className="col-md-6 text-center text-lg-right">
                     <div className="d-inline-flex align-items-center">
-                        <a className="text-white px-3" href="www.facebook.com">
+                        <a className="text-white px-3" href="https://www.facebook.com/">
                             <i className="fab fa-facebook-f"/>
                         </a>
                         <Link className="text-white px-3" to="/contact">
