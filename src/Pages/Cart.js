@@ -179,8 +179,3 @@ function placeOrder() {
     </>
   )
 }
-
-
-
-//key Id--> rzp_test_I9nsP09pkr4IdT
-//key sec --> OicqGvV4C5nRRApQVdrmjdNe
